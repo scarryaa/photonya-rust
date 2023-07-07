@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schemalist>
+    <schema id="org.nyan-inc.photonya.WindowSettings" path="/org/nyan-inc/photonya/WindowSettings/" gettext-domain="photonya">
+        <key name="window-width" type="i">
+            <default>800</default>
+            <summary>Window width</summary>
+            <description>Window width</description>
+        </key>
+        <key name="window-height" type="i">
+            <default>600</default>
+            <summary>Window height</summary>
+            <description>Window height</description>
+        </key>
+        <key name="window-maximized" type="b">
+            <default>false</default>
+            <summary>Window maximized</summary>
+            <description>Window maximized</description>
+        </key>
+    </schema>
+</schemalist>
